@@ -3,7 +3,7 @@
 - [components](#components)
 - [跨端应用开发](#跨端应用开发)
 - [web性能](https://github.com/sileny/docs/tree/master/performance)
-- [menorepo](#menorepo)
+- [monorepo](#monorepo)
 - [构建系统](#构建系统)
 - [构建工具](#构建工具)
 - [脚手架](#脚手架)
@@ -62,7 +62,7 @@
 
 
 
-# menorepo
+# monorepo
 
 - npm
 - pnpm
